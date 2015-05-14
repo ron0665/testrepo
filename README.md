@@ -1,2 +1,2 @@
 # testrepo
-test for class video
+test for class video now.
